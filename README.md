@@ -16,4 +16,42 @@ One of my recent and most exciting projects was building an **Internal Developer
 
 I pride myself on being adaptable, a keen problem-solver, and deeply committed to continuous learning and delivering high-quality solutions.
 
+
+
+
+## 💻 Skills
+
+<p align="left"> 
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://img.icons8.com/plasticine/100/react.png" width="48" height="48" alt="React" />
+  </a> 
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
+  </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
+  </a> 
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" />
+  </a> 
+  <a href="https://github.com/features/actions" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub Actions" />
+  </a> 
+  <a href="https://www.oracle.com/database/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle" />
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
+  </a> 
+  <a href="https://jestjs.io/" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png" alt="Jest" />
+  </a> 
+  <a href="https://playwright.dev/" target="_blank">
+    <img src="https://playwright.dev/img/playwright-logo.svg" width="48" height="48" alt="Playwright" />
+  </a> 
+</p>
+
+
+
+
 ---
