@@ -22,6 +22,9 @@ I pride myself on being adaptable, a keen problem-solver, and deeply committed t
 ## 💻 Skills
 
 <p align="left"> 
+  <a href="https://backstage.io/" target="_blank">
+    <img src="https://github.com/cncf/artwork/blob/main/projects/backstage/icon/color/backstage-icon-color.png" width="48" height="48" alt="React" />
+  </a> 
   <a href="https://react.dev/" target="_blank">
     <img src="https://img.icons8.com/plasticine/100/react.png" width="48" height="48" alt="React" />
   </a> 
